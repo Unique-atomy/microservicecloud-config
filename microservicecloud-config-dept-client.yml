@@ -45,7 +45,7 @@ info:
 
 ---
 server: 
-  port: 7001
+  port: 8001
 spring:
   profiles: test
   application:
